@@ -1,7 +1,7 @@
 export const Auth = () => {
   return (
     <div className="container">
-      <div className="row d-flex justify-content-center">
+      <div className="row d-flex justify-content-center align-items-center h-100vh">
         <div className="col-4 d-flex flex-column">
           <h1>Welcome to weeks</h1>
           <input type="email" placeholder="Email" />
